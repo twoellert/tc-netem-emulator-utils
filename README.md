@@ -1,4 +1,4 @@
-# TC Netam Emulator Scripts
+# TC Netem Emulator Scripts
 Utility scripts to generate and use the proper _tc_ commands to emulate a link.
 
 Usually this would be installed on a linux machine or VM which has three ethernet links. For example:
